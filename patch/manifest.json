@@ -1,10 +1,10 @@
 {
  "base": 3,
- "patch": 1,
- "pck": "patch_3_1.pck",
- "sha256": "ee7bc430e1bad9cb569ffab0fadde64d720f6c8617e619e96a37b48a10558c7a",
- "size": 373652,
- "notes": "v2.8-m1: 토착 소국 8곳·수도 거리 감쇠·부수도·천도·궁극기 충전·가야 연맹 점수 보정",
- "date": "2026-11-24 01:09",
- "sig": "CySQdAyKJiR1ultx4FsMvExAqvdchToIorX2SmVXi84fMbHMSHfvf7RYUOXAPtz3zywPSJne07oGequhKG6vmGfUkFJIsP3oycf4iqjUR5nfSprMWiZT1oVzANLj7cfj14O4gM6xpG45vKO9SWgpE6YpR8M2wJ1HXjHnKfIBGyxjlC7iHMTZKdR6Ey3xqbOqcoITEuJKSEn/Y/vU+xvqNQ/vDGSlnRguaaWS3FtAR5K6aiNb+wcGeYgAz4eZu4TdS/v9g17napqiRHb+vSNFNTwDpTiLoSNzziGaFqZwbxNoTnHTwzIf0FCT/dPP2L3Fl8qxRtBxL0oYYGmUWOrq5g=="
+ "patch": 2,
+ "pck": "patch_3_2.pck",
+ "sha256": "c12cc7ba82205a72b5404ff1e01738d7d8357aff5e408086f93dd4d4dea3ad78",
+ "size": 400380,
+ "notes": "v2.8-m2: 한강 패권(관미성·당항성·국원)·의견 보내기 창·천도·부수도 미리보기·가야 문화 +20%",
+ "date": "2026-11-24 08:24",
+ "sig": "x+RfckMuokKvEJp1DT8dPvlmd6ogBT7YKvD09ZmZNvjgmRfvQWYVtSxkWLOZf6cNd7FlBpUHDxCPWfQ1lKdVGhJT1562zqB6Cu73Is8cZRqyjr93cfp6RL6EKooRvbmRKagJFUxajFKj5e1WQANLp6fvbCvubLrH+GSrSz6B0afG0/pFnNHrU22uJVALwACrxxmB2BNQw9GW1gWZ/fTfCCXwYEaCmi4VM8YOiCxNvyOMarEKL0vursSlOgsYFlh83j3aFBWKIE1T8m35JWAZQaxCB2M4JaEIOtImBtnQ+CAVMjIfQcF4TipjcKWj1OU5Lj2rujYzwhn1Lymsh9RFVA=="
 }
