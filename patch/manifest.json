@@ -1,10 +1,10 @@
 {
  "base": 3,
- "patch": 0,
- "pck": "",
- "sha256": "",
- "size": 0,
- "notes": "기본판 3: 웹 용량 정리 (v2.8-m0)",
- "date": "2026-11-23 17:24",
- "sig": "SkKTYEpmsKqnUs8D8tgcJ74gwjs+ex8tkSyjyGLURfC7yLNX+IQslJbwjMKEB799iO7CKdM1V1G5PuQ7HRqfLqBOqJzSYdZsIcJRWvBt+mnVSNsFtF0DxcIu4NRbRef7d2+wxfLq86o236l04ftt0Z8nI8+1HOLqtZV3uDN2u4NGUypMffJWgZJ4qtR5D2HwCGpW8caPQfwVcXB/mm5XSa7kaPfX7e6iXvAT72ln1KqSAVT9cqnJmFuLdXSJufT7KNjFNwMxbrn42Nrz7cREE4ZoPwa8K+SGyrsRO+saIO5j8CvEz2x/QRykZCCksmPkIMBoVauc3Vv8Upe4Lk67kA=="
+ "patch": 1,
+ "pck": "patch_3_1.pck",
+ "sha256": "ee7bc430e1bad9cb569ffab0fadde64d720f6c8617e619e96a37b48a10558c7a",
+ "size": 373652,
+ "notes": "v2.8-m1: 토착 소국 8곳·수도 거리 감쇠·부수도·천도·궁극기 충전·가야 연맹 점수 보정",
+ "date": "2026-11-24 01:09",
+ "sig": "CySQdAyKJiR1ultx4FsMvExAqvdchToIorX2SmVXi84fMbHMSHfvf7RYUOXAPtz3zywPSJne07oGequhKG6vmGfUkFJIsP3oycf4iqjUR5nfSprMWiZT1oVzANLj7cfj14O4gM6xpG45vKO9SWgpE6YpR8M2wJ1HXjHnKfIBGyxjlC7iHMTZKdR6Ey3xqbOqcoITEuJKSEn/Y/vU+xvqNQ/vDGSlnRguaaWS3FtAR5K6aiNb+wcGeYgAz4eZu4TdS/v9g17napqiRHb+vSNFNTwDpTiLoSNzziGaFqZwbxNoTnHTwzIf0FCT/dPP2L3Fl8qxRtBxL0oYYGmUWOrq5g=="
 }
