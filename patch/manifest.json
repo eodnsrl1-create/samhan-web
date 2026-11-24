@@ -1,10 +1,10 @@
 {
  "base": 3,
- "patch": 6,
- "pck": "patch_3_6.pck",
- "sha256": "fc8623f5f56fc68992652095220bd7238cd9278e659a1070dd1476f2a956aca2",
- "size": 515240,
- "notes": "v2.8.1 조기 승리 기준·빠른 고구려 보강",
- "date": "2026-11-24 12:59",
- "sig": "aduXrOJG8axeB4yr+GK70fh21gHg5nDq+Nh0FzEb+NO2RmsEOAc8OR4GUSK5UemsopvMaksq7aJ6Cmpy1QQLs+5ifYCQGgIP10U9PYoIyG1aFD2OI3SyQMa9tcR7iL2xSU9jJ1ne2iGL3Rh6D1ekfgmVBSHU7A9lZfH1zNwantsXHptaV0gGFbwU0SsKb9SWgJiNLpBILYa8b66JfIeowrj6oIdTDAVe2VlsbF9wWx3AF/sxNX79vF3wAQVxDy4gll11+qS7BIDU1/g7gSn6ckh1gQ43UEJd/hcYH504GJ9UrPTbK29DYFUUag1q91wUHKm0Bywo34STAMpm2eBoBA=="
+ "patch": 7,
+ "pck": "patch_3_7.pck",
+ "sha256": "ca8f65856bff316bee08762e1a2b267655adbe3f1120e0d73fb6131a4779fa73",
+ "size": 516264,
+ "notes": "v2.8.2 빠른 고구려 보강·의견 폼 연결",
+ "date": "2026-11-24 13:29",
+ "sig": "O4y43NCa9nNULz91z3QEu1DwqlFVgeVefQxLFvywPPyUvd4aIDS6LFGyW6jQjPLfYlBq29G8bcrQ4EdqEsnSEczkkaP2vtVx4kDVQuwgk75pz2R1IyUbEJo2EGiV7fpBVPbk8xhYdJhqCVre7PzSjwnxinyUInHZoC4k52XkbD/6F9oIUG8O5YrpA405ilTRxg+YXEpWkF0NwJhMaS8HJD22PqOG0ClulmzrbZu9tqxn9WDfJT2pi6BiPZTyHUm+4lR+oL4HWmeD4uOpHnvPOGKgVprAqF/unfign9UcH9KcKI6W/+U96tmU2QY8LNmUJgAxXmn5hZ+cBsmVHNz1vw=="
 }
