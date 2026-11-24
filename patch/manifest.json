@@ -1,10 +1,10 @@
 {
  "base": 3,
- "patch": 8,
- "pck": "patch_3_8.pck",
- "sha256": "82861e04a695296070a68117d74035097933a4fd292e3e0c409bc4830015b041",
- "size": 541076,
- "notes": "v2.8.3 지도 그래픽 개편(강·국경·땅·장식)",
- "date": "2026-11-24 14:50",
- "sig": "DEG4w/HiC2JXnK3nyy4bUL5vLBEnnAgBCgMNWni4rdV7qj3tbwp41zMtKE39crmciavTb+CEK0tTbF4sTEH9BudptNYutafzDUTXu5NUnwwRu5PfZVbHMu+BZ8Lr1td3Ndbx0ILQThhJdwE2gTMRFxKQaskBk57IDHedAkPPdwf0sJumoL9FnmfPCdgYHfxfMyzeJ7i4CjWKvxqsYRURaWWy62Q6Ar8DRTb6dAL3D4jYbP4pbuserkIUnszNvcsmlOsezd691+ySwBjr2kDhCg5VdAtHu7PRd+0rSDV6UhkJS5Gi4JgLCHsnBnhum+T66UOT7hVzlb9v9U7ZsjPIxw=="
+ "patch": 9,
+ "pck": "patch_3_9.pck",
+ "sha256": "286feb08dabe97fd4d83f3a3e5c1105d09a5895eafc4b0e1afe49c5bbf726af0",
+ "size": 541028,
+ "notes": "v2.8.3.1 강 이어 그리기 축소",
+ "date": "2026-11-24 15:07",
+ "sig": "fB6TSMaGZmEd4wVkyg5S2xLgRLM3DV2Zo6Ppup1IAH25ajy3hZvv9LFi718pusRJvDFBUbzzkUBXmblIT/jSjK6qtiJvxRAVAV7GcxFJ8lPCsoZjiaF+7/wqRFSY0vTfCPOTVPlkoJ6fnyyEC9jkcVczdLPag3zjsEwqCe3kZocmFtlykKOjKYKsEEkq5VPUZcMg+vGFqoeBmz18h52MVl4pdHtaIrYZ/6zQ3/bJZag1viqKBqvx6jQn17cGhnfsToDSzowpbKqURow1U2vhjKeSP9A3+2T9DjbZTPAHYufvTeDLIpPyJ4hnJbSnufgiaRphZtWw3vQbmnlOblazKQ=="
 }
