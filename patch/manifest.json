@@ -1,10 +1,10 @@
 {
  "base": 3,
- "patch": 10,
- "pck": "patch_3_10.pck",
- "sha256": "0b9fc12b8ca21a65716c85909ae8de6e3be48ee5df3ff05dbaaada3b528240a0",
- "size": 542260,
- "notes": "v2.8.3.2 플레이 시간·저장 호환",
- "date": "2026-11-24 19:01",
- "sig": "COCwzuvfra6jaErhwODcazmOMVZGHGZMY6IjaQCeUtTy5X6m1dW9gaK8OWIwhwZRd09SD0AOTlF4ZUmQ1TH1L8aFsiMxatCaYhzM+2wIY7tDoyyaUbZwI399XtE6TzbCHvNL5ipZ+eI3y+VhbkylMeIy0RY24vrGW7wpWhAXm+AgpftQHIZu2XUm0Vd046xnRQi3iG9FtFqca1LgcIfQqTEY+GsNN6w5JS0SzoCA6xepx8UOOWI80t0GsxDwg8crWPLxS9XDls4/D6wYJbNvs2ILH5O4gl4ePIOKTmXnbUA1rxyeI07fbc8C2lXAIQlJ/pbTMh2qDj+wug9oQzDF4g=="
+ "patch": 11,
+ "pck": "patch_3_11.pck",
+ "sha256": "a4eb8b8f80e69a24f891e5ef21fe86ac4526c1e11666a9bfb249e918f8d1ad9b",
+ "size": 552112,
+ "notes": "v2.8.3.3 시야 안개(설정에서 켬)",
+ "date": "2026-11-24 20:34",
+ "sig": "SVWlj18GqethGrh+7A2EyxFNHHgGAovf+WIOubCKsAqmmnD2fxxdFSXSNLNDYSz2K8XGUQWlTZJbU32KWf0czkp8O0X/vT7oxKk6gRdGFiEClFkCuko4CYwZJLzA+ZcpwuOA2pOsczXWLpkWd7YoInYxs98f5q/Am/m0xuKXXs3qbjrbXX7tzQu5Ls92+EJYsT61eL9L665UGm+mXqb2VPnzt8FK2rU8ax+Fl7voSGCyTdH/Xc6qOo5t1nYpV66+t1vPRQZ0Yn+RuH1B4n55Uz5obZ22H6x2lK97g8nYwDRJPoYof6ZwD2QMJQ6Zxb/IC0w5gqW8fsJZ0fLFzCwuhw=="
 }
