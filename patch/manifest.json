@@ -1,10 +1,10 @@
 {
  "base": 3,
- "patch": 2,
- "pck": "patch_3_2.pck",
- "sha256": "c12cc7ba82205a72b5404ff1e01738d7d8357aff5e408086f93dd4d4dea3ad78",
- "size": 400380,
- "notes": "v2.8-m2: 한강 패권(관미성·당항성·국원)·의견 보내기 창·천도·부수도 미리보기·가야 문화 +20%",
- "date": "2026-11-24 08:24",
- "sig": "x+RfckMuokKvEJp1DT8dPvlmd6ogBT7YKvD09ZmZNvjgmRfvQWYVtSxkWLOZf6cNd7FlBpUHDxCPWfQ1lKdVGhJT1562zqB6Cu73Is8cZRqyjr93cfp6RL6EKooRvbmRKagJFUxajFKj5e1WQANLp6fvbCvubLrH+GSrSz6B0afG0/pFnNHrU22uJVALwACrxxmB2BNQw9GW1gWZ/fTfCCXwYEaCmi4VM8YOiCxNvyOMarEKL0vursSlOgsYFlh83j3aFBWKIE1T8m35JWAZQaxCB2M4JaEIOtImBtnQ+CAVMjIfQcF4TipjcKWj1OU5Lj2rujYzwhn1Lymsh9RFVA=="
+ "patch": 3,
+ "pck": "patch_3_3.pck",
+ "sha256": "5dc0b98699dca1121457d8bdd25b6739e627e2c76375ecb9badf31d4d503b788",
+ "size": 485740,
+ "notes": "v2.8-m3: 외교 패권 AI(조약 3단계·신뢰·배신)·재난·약탈대·기근 진대법·호환·저수지·2단계 외적 침입",
+ "date": "2026-11-24 09:58",
+ "sig": "qm8u0eJ5FCDnH7ySOVPB4RSKb0yTGFu5n9sceVrRENi5QwZFyNmSHp3OJV1LEgdrCzD7cDkyd+YBgWduEUfVZP+zSlt28yBrmM5eOXHnLCHvLyR9zoRiKG5HV7VTZard6DUFlvpd8epJH9wYuGhpPYvrJCT6lmJrDGDAghcdl5O5X1W2I4uraNitCwpzS1Hxa+jinbq4szy2oKuwwg0r8J8te0rWCnC/qgKGTHTruU0+ZFYHG9g6qARuQkA98Z1yDRZrDwcgEmFHdGI+6GhtaQBCQ1SuNh1wSMzaOY9OHX4lPVA20W6YoVANSYDw5Kfls59F08E/ghgNuaZBB1at+A=="
 }
