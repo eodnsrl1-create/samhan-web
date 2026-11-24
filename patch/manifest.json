@@ -1,10 +1,10 @@
 {
  "base": 3,
- "patch": 12,
- "pck": "patch_3_12.pck",
- "sha256": "30bffe8c316321f924a752ec6a72ec6bed6f76af7d49f312ef7a7634f887ab1a",
- "size": 551856,
- "notes": "v2.8.4 시야 안개 기본 적용",
- "date": "2026-11-24 21:20",
- "sig": "ZbqM1bIUahIgU96xRxdQzRdGIjLBcDudFsRzv1QIPH5g84gRmO/MBcLoQW3TM5ukShfAAUWtkofPudUT67nV3x0wlu3/vXVaR65c2OYEs6i27h5B1R33Qncm4cwoiBbOoly3yzbeGwlvT2PgWglv2fUheynqBxqrWi0QnZf6w3B1tgzZbKXftlFoIW8Pk9L+qLLluJe6rWHLv4F+sYjy89wbhZMFtaQgi5xPXRnM9UumpXuBg/l3gm6jsR+MsEmZq3y55XwZSxBBiabT+8v6g6n/cS8VDGyxBhp+7ivW/Hy+V13cR2vxB4gP+ehYDc191U78ZvFyRXcc4GsBR3GNEw=="
+ "patch": 13,
+ "pck": "patch_3_13.pck",
+ "sha256": "4d558914378248e1d3322d7eb1745e19f5383f78a3c9feefd3b48881218dea12",
+ "size": 580316,
+ "notes": "v2.8.5 해안선·강 칸·의견 폼",
+ "date": "2026-11-24 22:10",
+ "sig": "I/j/Af4aUPA8KeTWpbAa4kThVg3oNVvMWsDaAGbJgSuVnw8fhPYlY/OlxZv5PUxEouwwXB8WcnIs3iucXPP6sQ1MCj1HXUPToA/mlmDpf5MqKgsyUiCkrYoguEl6B4EtRiR597s4ScdkS6CZYe1ghWHL9qglt2b+xSCU1iNoLPmkFoFRR6ZrJwrzGwqEjxu3k2C3Zd+Nm9VgO2/qSQnq2Xox5MqetoP94RO3umRTLKXpg3Xt3XRnsUHp5ypJqkwPPS0UAjpEY6oTzGa6F9xO3DALOlmoaJ3zt9LmzLI7wbW7iCQJd5Osrb/xSrvYoUtmAjezgJd3/7Zrh9qQ2ZTeGg=="
 }
