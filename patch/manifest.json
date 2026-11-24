@@ -1,10 +1,10 @@
 {
  "base": 3,
- "patch": 5,
- "pck": "patch_3_5.pck",
- "sha256": "a377d8f007f6c9984b23cc4c6ea8758dad4bffaa3d28a4d6e8c2eec6f01a7c90",
- "size": 514776,
- "notes": "v2.8-final 최종 회귀 · 해시 QA",
- "date": "2026-11-24 12:33",
- "sig": "XLdaFw2fmYvPSFABYPBv7HnZS/7GtCoaghnuz09y2G4roT+N3/Yb4GnORdH+ZOpixtkQc4B6on9OJp2bbdHLALOHz6c98/+ug3VdlJL+IibVwZGlcIgIre4oMGi8PICMneJr/5FRCPS5GSNl29PhDxbrLIyqKhWONjIN6kAEXzn6QhNuUkKbZSBG2CFq4+4rxPwC8RbEFOzG6wa60rI+svt7t5JVp9SfDL1hiyEexGB18iVjGXDaBLnF+jmLXxap8EyIZXgL6HaK6m9YElf4gqtsEr7XPSamlTdWoYcnyp7AtrWBHCeG0s0oHsRYVL+nRCVk/Fn7XL/rG35Ufx/afQ=="
+ "patch": 6,
+ "pck": "patch_3_6.pck",
+ "sha256": "fc8623f5f56fc68992652095220bd7238cd9278e659a1070dd1476f2a956aca2",
+ "size": 515240,
+ "notes": "v2.8.1 조기 승리 기준·빠른 고구려 보강",
+ "date": "2026-11-24 12:59",
+ "sig": "aduXrOJG8axeB4yr+GK70fh21gHg5nDq+Nh0FzEb+NO2RmsEOAc8OR4GUSK5UemsopvMaksq7aJ6Cmpy1QQLs+5ifYCQGgIP10U9PYoIyG1aFD2OI3SyQMa9tcR7iL2xSU9jJ1ne2iGL3Rh6D1ekfgmVBSHU7A9lZfH1zNwantsXHptaV0gGFbwU0SsKb9SWgJiNLpBILYa8b66JfIeowrj6oIdTDAVe2VlsbF9wWx3AF/sxNX79vF3wAQVxDy4gll11+qS7BIDU1/g7gSn6ckh1gQ43UEJd/hcYH504GJ9UrPTbK29DYFUUag1q91wUHKm0Bywo34STAMpm2eBoBA=="
 }
