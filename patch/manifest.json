@@ -1,10 +1,10 @@
 {
  "base": 3,
- "patch": 11,
- "pck": "patch_3_11.pck",
- "sha256": "a4eb8b8f80e69a24f891e5ef21fe86ac4526c1e11666a9bfb249e918f8d1ad9b",
- "size": 552112,
- "notes": "v2.8.3.3 시야 안개(설정에서 켬)",
- "date": "2026-11-24 20:34",
- "sig": "SVWlj18GqethGrh+7A2EyxFNHHgGAovf+WIOubCKsAqmmnD2fxxdFSXSNLNDYSz2K8XGUQWlTZJbU32KWf0czkp8O0X/vT7oxKk6gRdGFiEClFkCuko4CYwZJLzA+ZcpwuOA2pOsczXWLpkWd7YoInYxs98f5q/Am/m0xuKXXs3qbjrbXX7tzQu5Ls92+EJYsT61eL9L665UGm+mXqb2VPnzt8FK2rU8ax+Fl7voSGCyTdH/Xc6qOo5t1nYpV66+t1vPRQZ0Yn+RuH1B4n55Uz5obZ22H6x2lK97g8nYwDRJPoYof6ZwD2QMJQ6Zxb/IC0w5gqW8fsJZ0fLFzCwuhw=="
+ "patch": 12,
+ "pck": "patch_3_12.pck",
+ "sha256": "30bffe8c316321f924a752ec6a72ec6bed6f76af7d49f312ef7a7634f887ab1a",
+ "size": 551856,
+ "notes": "v2.8.4 시야 안개 기본 적용",
+ "date": "2026-11-24 21:20",
+ "sig": "ZbqM1bIUahIgU96xRxdQzRdGIjLBcDudFsRzv1QIPH5g84gRmO/MBcLoQW3TM5ukShfAAUWtkofPudUT67nV3x0wlu3/vXVaR65c2OYEs6i27h5B1R33Qncm4cwoiBbOoly3yzbeGwlvT2PgWglv2fUheynqBxqrWi0QnZf6w3B1tgzZbKXftlFoIW8Pk9L+qLLluJe6rWHLv4F+sYjy89wbhZMFtaQgi5xPXRnM9UumpXuBg/l3gm6jsR+MsEmZq3y55XwZSxBBiabT+8v6g6n/cS8VDGyxBhp+7ivW/Hy+V13cR2vxB4gP+ehYDc191U78ZvFyRXcc4GsBR3GNEw=="
 }
