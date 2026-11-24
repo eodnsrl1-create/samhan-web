@@ -1,10 +1,10 @@
 {
  "base": 3,
- "patch": 3,
- "pck": "patch_3_3.pck",
- "sha256": "5dc0b98699dca1121457d8bdd25b6739e627e2c76375ecb9badf31d4d503b788",
- "size": 485740,
- "notes": "v2.8-m3: 외교 패권 AI(조약 3단계·신뢰·배신)·재난·약탈대·기근 진대법·호환·저수지·2단계 외적 침입",
- "date": "2026-11-24 09:58",
- "sig": "qm8u0eJ5FCDnH7ySOVPB4RSKb0yTGFu5n9sceVrRENi5QwZFyNmSHp3OJV1LEgdrCzD7cDkyd+YBgWduEUfVZP+zSlt28yBrmM5eOXHnLCHvLyR9zoRiKG5HV7VTZard6DUFlvpd8epJH9wYuGhpPYvrJCT6lmJrDGDAghcdl5O5X1W2I4uraNitCwpzS1Hxa+jinbq4szy2oKuwwg0r8J8te0rWCnC/qgKGTHTruU0+ZFYHG9g6qARuQkA98Z1yDRZrDwcgEmFHdGI+6GhtaQBCQ1SuNh1wSMzaOY9OHX4lPVA20W6YoVANSYDw5Kfls59F08E/ghgNuaZBB1at+A=="
+ "patch": 4,
+ "pck": "patch_3_4.pck",
+ "sha256": "4bed40e4369b13fe4ce54c81a78d4e5ae5416112f29bb90aa8795edac949135c",
+ "size": 507676,
+ "notes": "v2.8-m4 빠른 30턴 전진 시작·결과 복기·4차 UI·Safe Area",
+ "date": "2026-11-24 10:43",
+ "sig": "AkJODSBbGwj4+K4RISrkxViv9k69e6dCi3/ceUj20p6B1fuje3cBDNjej+pDQTFyf0WzVms5BB/RoPYoNaK+RloI3SEPq4JpXLkDMtELR+pGMSqh4FNvQ1sMuKd064u8QS4TYEJNMBVavcygafmvGFjJ41RgAGvPeU5lnHoBbfpLyNLcCIPq4u1U1d03RLmZS2gmbkTDKONCo1rTRWLq3xaivMsyvoXf6d/LPezV2r4fMy7JRelNaQQB5NO4NVkSPiCS3BSU8glNemt0ayVs3bQ4eZRbo5MkbOgfGSAH5wIy7lQDyOzFZ+YPKDcOfcegX6yvEhC90xPTNLCjSvEhJQ=="
 }
