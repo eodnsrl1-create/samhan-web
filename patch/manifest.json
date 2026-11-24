@@ -1,10 +1,10 @@
 {
  "base": 3,
- "patch": 7,
- "pck": "patch_3_7.pck",
- "sha256": "ca8f65856bff316bee08762e1a2b267655adbe3f1120e0d73fb6131a4779fa73",
- "size": 516264,
- "notes": "v2.8.2 빠른 고구려 보강·의견 폼 연결",
- "date": "2026-11-24 13:29",
- "sig": "O4y43NCa9nNULz91z3QEu1DwqlFVgeVefQxLFvywPPyUvd4aIDS6LFGyW6jQjPLfYlBq29G8bcrQ4EdqEsnSEczkkaP2vtVx4kDVQuwgk75pz2R1IyUbEJo2EGiV7fpBVPbk8xhYdJhqCVre7PzSjwnxinyUInHZoC4k52XkbD/6F9oIUG8O5YrpA405ilTRxg+YXEpWkF0NwJhMaS8HJD22PqOG0ClulmzrbZu9tqxn9WDfJT2pi6BiPZTyHUm+4lR+oL4HWmeD4uOpHnvPOGKgVprAqF/unfign9UcH9KcKI6W/+U96tmU2QY8LNmUJgAxXmn5hZ+cBsmVHNz1vw=="
+ "patch": 8,
+ "pck": "patch_3_8.pck",
+ "sha256": "82861e04a695296070a68117d74035097933a4fd292e3e0c409bc4830015b041",
+ "size": 541076,
+ "notes": "v2.8.3 지도 그래픽 개편(강·국경·땅·장식)",
+ "date": "2026-11-24 14:50",
+ "sig": "DEG4w/HiC2JXnK3nyy4bUL5vLBEnnAgBCgMNWni4rdV7qj3tbwp41zMtKE39crmciavTb+CEK0tTbF4sTEH9BudptNYutafzDUTXu5NUnwwRu5PfZVbHMu+BZ8Lr1td3Ndbx0ILQThhJdwE2gTMRFxKQaskBk57IDHedAkPPdwf0sJumoL9FnmfPCdgYHfxfMyzeJ7i4CjWKvxqsYRURaWWy62Q6Ar8DRTb6dAL3D4jYbP4pbuserkIUnszNvcsmlOsezd691+ySwBjr2kDhCg5VdAtHu7PRd+0rSDV6UhkJS5Gi4JgLCHsnBnhum+T66UOT7hVzlb9v9U7ZsjPIxw=="
 }
