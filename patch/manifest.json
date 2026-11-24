@@ -1,10 +1,10 @@
 {
  "base": 3,
- "patch": 4,
- "pck": "patch_3_4.pck",
- "sha256": "4bed40e4369b13fe4ce54c81a78d4e5ae5416112f29bb90aa8795edac949135c",
- "size": 507676,
- "notes": "v2.8-m4 빠른 30턴 전진 시작·결과 복기·4차 UI·Safe Area",
- "date": "2026-11-24 10:43",
- "sig": "AkJODSBbGwj4+K4RISrkxViv9k69e6dCi3/ceUj20p6B1fuje3cBDNjej+pDQTFyf0WzVms5BB/RoPYoNaK+RloI3SEPq4JpXLkDMtELR+pGMSqh4FNvQ1sMuKd064u8QS4TYEJNMBVavcygafmvGFjJ41RgAGvPeU5lnHoBbfpLyNLcCIPq4u1U1d03RLmZS2gmbkTDKONCo1rTRWLq3xaivMsyvoXf6d/LPezV2r4fMy7JRelNaQQB5NO4NVkSPiCS3BSU8glNemt0ayVs3bQ4eZRbo5MkbOgfGSAH5wIy7lQDyOzFZ+YPKDcOfcegX6yvEhC90xPTNLCjSvEhJQ=="
+ "patch": 5,
+ "pck": "patch_3_5.pck",
+ "sha256": "a377d8f007f6c9984b23cc4c6ea8758dad4bffaa3d28a4d6e8c2eec6f01a7c90",
+ "size": 514776,
+ "notes": "v2.8-final 최종 회귀 · 해시 QA",
+ "date": "2026-11-24 12:33",
+ "sig": "XLdaFw2fmYvPSFABYPBv7HnZS/7GtCoaghnuz09y2G4roT+N3/Yb4GnORdH+ZOpixtkQc4B6on9OJp2bbdHLALOHz6c98/+ug3VdlJL+IibVwZGlcIgIre4oMGi8PICMneJr/5FRCPS5GSNl29PhDxbrLIyqKhWONjIN6kAEXzn6QhNuUkKbZSBG2CFq4+4rxPwC8RbEFOzG6wa60rI+svt7t5JVp9SfDL1hiyEexGB18iVjGXDaBLnF+jmLXxap8EyIZXgL6HaK6m9YElf4gqtsEr7XPSamlTdWoYcnyp7AtrWBHCeG0s0oHsRYVL+nRCVk/Fn7XL/rG35Ufx/afQ=="
 }
