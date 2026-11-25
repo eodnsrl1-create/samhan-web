@@ -1,10 +1,10 @@
 {
- "base": 3,
- "patch": 13,
- "pck": "patch_3_13.pck",
- "sha256": "4d558914378248e1d3322d7eb1745e19f5383f78a3c9feefd3b48881218dea12",
- "size": 580316,
- "notes": "v2.8.5 해안선·강 칸·의견 폼",
- "date": "2026-11-24 22:10",
- "sig": "I/j/Af4aUPA8KeTWpbAa4kThVg3oNVvMWsDaAGbJgSuVnw8fhPYlY/OlxZv5PUxEouwwXB8WcnIs3iucXPP6sQ1MCj1HXUPToA/mlmDpf5MqKgsyUiCkrYoguEl6B4EtRiR597s4ScdkS6CZYe1ghWHL9qglt2b+xSCU1iNoLPmkFoFRR6ZrJwrzGwqEjxu3k2C3Zd+Nm9VgO2/qSQnq2Xox5MqetoP94RO3umRTLKXpg3Xt3XRnsUHp5ypJqkwPPS0UAjpEY6oTzGa6F9xO3DALOlmoaJ3zt9LmzLI7wbW7iCQJd5Osrb/xSrvYoUtmAjezgJd3/7Zrh9qQ2ZTeGg=="
+ "base": 4,
+ "patch": 0,
+ "pck": "",
+ "sha256": "",
+ "size": 0,
+ "notes": "v2.9.0 첫 로딩 경량화 기본판",
+ "date": "2026-11-25 09:10",
+ "sig": "5oJY67QSjJY+1UjOsolIduOeRouiKCfDyaMZ/IpqX2PBhV3muL9UxkOYaOQExvDu1JN5+JoljTIKawe8ocFrmgi5dHb2B5ZtK5jcpm4MzwgiHE+gjAQrGToUCGkRrvqtwjboWlUNYQQF7xWG3P8l9D17onETCc2WfE3tNV1TIfnhYnTvQLJ5vqGd9vMXgNPfBdET82kNdNKutlAPxTvQ2vasglKaBSfI5aouMrWHN8krQPIuXZkafQuf28SPS1PvKmaa4v5P91a3/n4eq3l+hE0k254rylOqjDSq4YwCW2al3mqfEHsl7vEsCsFsF16t4zezkREM56GAF86eHVWgYA=="
 }
